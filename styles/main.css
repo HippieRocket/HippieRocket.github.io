@@ -1851,4 +1851,8 @@ blockquote>h6:first-child::before {
     display: inline-block;
     margin-right: 4px;
 }
+
+.md-toc-h1 {
+    display: none;
+}
     
