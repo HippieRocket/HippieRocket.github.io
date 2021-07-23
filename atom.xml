@@ -1,41 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://hippierocket.com</id>
+    <id>https://hippierocket.github.io</id>
     <title>嬉皮火箭的博客</title>
-    <updated>2021-07-23T14:02:59.216Z</updated>
+    <updated>2021-07-23T14:08:38.141Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://hippierocket.com"/>
-    <link rel="self" href="https://hippierocket.com/atom.xml"/>
+    <link rel="alternate" href="https://hippierocket.github.io"/>
+    <link rel="self" href="https://hippierocket.github.io/atom.xml"/>
     <subtitle>Take life with a grain of salt.</subtitle>
-    <logo>https://hippierocket.com/images/avatar.png</logo>
-    <icon>https://hippierocket.com/favicon.ico</icon>
+    <logo>https://hippierocket.github.io/images/avatar.png</logo>
+    <icon>https://hippierocket.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 嬉皮火箭的博客</rights>
     <entry>
         <title type="html"><![CDATA[旅行日志]]></title>
-        <id>https://hippierocket.com/post/journal/</id>
-        <link href="https://hippierocket.com/post/journal/">
+        <id>https://hippierocket.github.io/post/journal/</id>
+        <link href="https://hippierocket.github.io/post/journal/">
         </link>
         <updated>2021-07-15T16:00:00.000Z</updated>
-        <content type="html"><![CDATA[<hr>
-<h2 id="title-旅行日志date-2021-07-16-000000tags-lifepublished-truehideinlist-falsefeatureistop-false">title: '旅行日志'<br>
-date: 2021-07-16 00:00:00<br>
-tags: [life]<br>
-published: true<br>
-hideInList: false<br>
-feature:<br>
-isTop: false</h2>
-<p><ul class="markdownIt-TOC">
-<li>
-<ul>
-<li><a href="#title-%E6%97%85%E8%A1%8C%E6%97%A5%E5%BF%97date-2021-07-16-000000tags-lifepublished-truehideinlist-falsefeatureistop-false">title: '旅行日志'<br>
-date: 2021-07-16 00:00:00<br>
-tags: [life]<br>
-published: true<br>
-hideInList: false<br>
-feature:<br>
-isTop: false</a></li>
-</ul>
-</li>
+        <content type="html"><![CDATA[<p><ul class="markdownIt-TOC">
 <li><a href="#day-0">Day 0</a></li>
 <li><a href="#day-12">Day 1&amp;2</a>
 <ul>
